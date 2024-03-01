@@ -414,6 +414,25 @@
         opacity: 0;
     }
 }
+.car-parked {
+    max-width: 461px;
+    max-height: 297px;
+    border-radius: 16px;
+}
+
+.near-stairs {
+    max-width: 486px;
+    max-height: 297px;
+    border-radius: 16px;
+}
+
+.min_h_297 {
+    min-height: 297px;
+}
+
+.h_297 {
+    max-height: 297px;
+}
 
 
 input[id=inp-frm] {
